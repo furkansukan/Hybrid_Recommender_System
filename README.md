@@ -1,7 +1,8 @@
 # Hybrid_Recommender_System
 Hybrid_Recommender_System
 
-![Uploading image.png…]()
+![image](https://github.com/furkansukan/Hybrid_Recommender_System/assets/115731123/75d43348-c7ce-4325-b2b7-b59b055ba203)
+
 
 
 # İş Problemi : 
